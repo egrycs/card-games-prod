@@ -1,0 +1,67 @@
+{
+  "RIKIKI": "Rikiki",
+  "HEARTS": "Hearts",
+  "CLUB": "club",
+  "DIAMOND": "diamond",
+  "HEART": "heart",
+  "SPADE": "spade",
+  "SETTINGS": "Settings",
+  "PLAY": "Play",
+  "HISTORY": "History",
+  "SETTINGS_PANEL": {
+    "LANG_HU": "hungarian",
+    "LANG_EN": "english",
+    "SELECT_LANGUAGE": "Select language",
+    "SELECT_GAME": "Select game",
+    "GO_HOME": "Go to home page",
+    "LEAVE_CURRENT_GAME": "Leave current game",
+    "NR_OF_PLAYERS": "Number of players",
+    "SET": "Set",
+    "NR_OF_ROUNDS": "Number of rounds",
+    "START_PLAYER": "Start player",
+    "ENTER_YOUR_NAME": "Enter your name"
+  },
+  "CARD_TABLE_PANEL": {
+    "TRUMP_CARD": "Trump card"
+  },
+  "MY_CARDS_PANEL": {
+    "ROUND": "Round",
+    "YOUR_CARDS": "Your cards",
+    "MESSAGES": {
+      "CHOOSE_3_CARD_TO_SWAP": "Select 3 cards to swap",
+      "NO_SWAP": "No swap in this round",
+      "INVALID_BET_MSG": "Invalid bet: {{playerBet}}!",
+      "INVALID_BET_SUBMSG": "(Total bet can't be equal to {{round}}.)",
+      "INCORRECT_SELECTION": "Incorrect selection!",
+      "SELECT_TRUMP_CARD_SUIT": "(You must select a trump card!)",
+      "SELECT_FIRST_CARD_SUIT": "(You must select a card with {{suit}} suit!)",
+      "START_WITH_CLUB_TWO": "(You have to start with club 2!)",
+      "HEARTS_NOT_BROKEN": "(Neither the queen of spades nor a heart-colored card was played.)",
+      "INVALID_SELECTION": "Invalid selection: ${selectedCardIdx}!",
+      "CHOOSE_VALID_BET_MSG": "Please, choose a valid bet.",
+      "CHOOSE_VALID_BET_SUBMSG": "(You can't bet {{roundMinusBetTotal}} because the total bet can't be equal to the round count.)",
+      "CHOOSE_CARD": "Please, choose a card",
+      "YOU_WON": "You are victoriuos!",
+      "ANOTHER_WON": "{{winner}} won the tournament!"
+    }
+  },
+  "CONTROL_PANEL": {
+    "SUBMIT_3_CARDS_SELECTION": "Submit selection",
+    "SUBMIT_BET": "Submit bet",
+    "CONFIRM_STAND": "Confirm stand",
+    "NEXT_ROUND": "Next round",
+    "NEW_GAME": "New game",
+    "NAME": "Name",
+    "ACTUAL_BET": "Actual bet",
+    "REALIZED": "Realized",
+    "SCORE": "Score"
+  },
+  "HISTORY_PANEL": {
+    "TURN_PER_ROUND": "Turn/ Round",
+    "TURN_STARTER": "Turn starter",
+    "TURN_TAKER": "Turn taker",
+    "BET": "bet",
+    "REAL": "real",
+    "SCORE": "score"
+  }
+}

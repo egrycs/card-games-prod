@@ -1,0 +1,67 @@
+{
+  "RIKIKI": "Rikiki",
+  "HEARTS": "Fekete macska",
+  "CLUB": "Treff",
+  "DIAMOND": "Káró",
+  "HEART": "Szív",
+  "SPADE": "Pikk",
+  "SETTINGS": "Beállítások",
+  "PLAY": "Játék",
+  "HISTORY": "Előzmények",
+  "SETTINGS_PANEL": {
+    "LANG_HU": "magyar",
+    "LANG_EN": "angol",
+    "SELECT_LANGUAGE": "Válassz nyelvet",
+    "SELECT_GAME": "Válassz játékot",
+    "GO_HOME": "A kezdőlapra",
+    "LEAVE_CURRENT_GAME": "Jelenlegi játék megszakítása",
+    "NR_OF_PLAYERS": "Játékosok száma",
+    "SET": "Beállít",
+    "NR_OF_ROUNDS": "Fordulók száma",
+    "START_PLAYER": "Kezdő játékos",
+    "ENTER_YOUR_NAME": "Írd be a neved"
+  },
+  "CARD_TABLE_PANEL": {
+    "TRUMP_CARD": "Adu kártya"
+  },
+  "MY_CARDS_PANEL": {
+    "ROUND": "Forduló",
+    "YOUR_CARDS": "Kártyáid",
+    "MESSAGES": {
+      "CHOOSE_3_CARD_TO_SWAP": "Válassz 3 kártyát a cseréhez",
+      "NO_SWAP": "Ebben a körben nincs csere",
+      "INVALID_BET_MSG": "Érvénytelen fogadás: {{playerBet}}!",
+      "INVALID_BET_SUBMSG": "(A fogadások összege nem lehet {{round}}.)",
+      "INCORRECT_SELECTION": "Helytelen választás!",
+      "SELECT_TRUMP_CARD_SUIT": "(Adut kell választanod!)",
+      "SELECT_FIRST_CARD_SUIT": "({{suit}} színű kártyát kell választanod!)",
+      "START_WITH_CLUB_TWO": "(Treff 2-vel kell kezdeni!)",
+      "HEARTS_NOT_BROKEN": "(Sem a pikk dáma sem szív színű kártya sem volt kijátszva.)",
+      "INVALID_SELECTION": "Érvénytelen választás: {{selectedCardIdx}}!",
+      "CHOOSE_VALID_BET_MSG": "Tedd meg a fogadásod!",
+      "CHOOSE_VALID_BET_SUBMSG": "(A fogadásod nem lehet {{roundMinusBetTotal}}, mert a fogadások összege nem egyezhet a forduló számával.)",
+      "CHOOSE_CARD": "Válassz egy kártyát!",
+      "YOU_WON": "Győzedelmeskedtél!",
+      "ANOTHER_WON": "{{winner}} nyerte a játékot!"
+    }
+  },
+  "CONTROL_PANEL": {
+    "SUBMIT_3_CARDS_SELECTION": "Választás jóváhagyása",
+    "SUBMIT_BET": "Fogadás jóváhagyása",
+    "CONFIRM_STAND": "Kör megerősítése",
+    "NEXT_ROUND": "Következő forduló",
+    "NEW_GAME": "Új játék",
+    "NAME": "Név",
+    "ACTUAL_BET": "Aktuális fogadás",
+    "REALIZED": "Realizált",
+    "SCORE": "Pontszám"
+  },
+  "HISTORY_PANEL": {
+    "TURN_PER_ROUND": "kör/ forduló",
+    "TURN_STARTER": "körben kezdő",
+    "TURN_TAKER": "kört vivő",
+    "BET": "fogadás",
+    "REAL": "realizált",
+    "SCORE": "pontszám"
+  }
+}

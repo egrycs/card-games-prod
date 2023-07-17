@@ -5,12 +5,9 @@
   "DIAMOND": "Káró",
   "HEART": "Szív",
   "SPADE": "Pikk",
-  "SETTINGS": "Beállítások",
   "PLAY": "Játék",
   "HISTORY": "Előzmények",
   "SETTINGS_PANEL": {
-    "LANG_HU": "magyar",
-    "LANG_EN": "angol",
     "SELECT_LANGUAGE": "Válassz nyelvet",
     "SELECT_GAME": "Válassz játékot",
     "GO_HOME": "A kezdőlapra",

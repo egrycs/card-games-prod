@@ -5,12 +5,9 @@
   "DIAMOND": "diamond",
   "HEART": "heart",
   "SPADE": "spade",
-  "SETTINGS": "Settings",
   "PLAY": "Play",
   "HISTORY": "History",
   "SETTINGS_PANEL": {
-    "LANG_HU": "hungarian",
-    "LANG_EN": "english",
     "SELECT_LANGUAGE": "Select language",
     "SELECT_GAME": "Select game",
     "GO_HOME": "Go to home page",
